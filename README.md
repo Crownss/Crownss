@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crownss)]()
 -->
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crownss&repo=Backend-Aniku)](https://github.com/Crownss/Backend-Aniku)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crownss&repo=Frontend-Aniku)](https://github.com/Crownss/Frontend-Aniku)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crownss&layout=compact)](https://github.com/Crownss)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Crownss)](https://github.com/Crownss)
-
