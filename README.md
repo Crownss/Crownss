@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crownss)]()
 -->
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crownss&repo=Backend-DBAnime)](https://github.com/Crownss/Backend-DBAnime)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crownss&repo=Frontend-DBAnime)](https://github.com/Crownss/Frontend-DBAnime)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crownss&repo=Frontend-DBAnime-Nuxt)](https://github.com/Crownss/Frontend-DBAnime-Nuxt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crownss&layout=compact)](https://github.com/Crownss)
