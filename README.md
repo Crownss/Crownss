@@ -24,3 +24,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crownss&repo=Frontend-DBAnime-Nuxt)](https://github.com/Crownss/Frontend-DBAnime-Nuxt)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crownss&repo=Frontend-DBAnime-Next)](https://github.com/Crownss/Frontend-DBAnime-Next) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crownss&layout=compact)](https://github.com/Crownss)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=crownss&count_private=true)
