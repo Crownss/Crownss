@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crownss&repo=Frontend-DBAnime-Nuxt)](https://github.com/Crownss/Frontend-DBAnime-Nuxt) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crownss&repo=Frontend-DBAnime-Nuxt)](https://github.com/Crownss/Frontend-DBAnime-Nuxt) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crownss&layout=compact&hide=html,css,scss,vue)](https://github.com/Crownss) -->
-https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crownss&theme=transparent
+[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=Crownss&layout=compact&hide=html,css,scss,vue](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crownss&theme=transparent))](https://github.com/Crownss)
