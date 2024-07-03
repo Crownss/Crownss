@@ -22,4 +22,5 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "master"
           EXCLUDE: "css,scss,html"
+          UTC_OFFSET: 7
           AUTO_PUSH: true
