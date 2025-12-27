@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crownss&repo=Frontend-DBAnime-Nuxt)](https://github.com/Crownss/Frontend-DBAnime-Nuxt) -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Crownss&repo=Frontend-DBAnime-Nuxt)](https://github.com/Crownss/Frontend-DBAnime-Nuxt) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Crownss&layout=compact&hide=html,css,scss,vue)](https://github.com/Crownss) -->
-[![Top Langs](https://raw.githubusercontent.com/Crownss/Crownss/master/profile-summary-card-output/omni/1-repos-per-language.svg)](https://github.com/Crownss)
-[![Top Commit](https://raw.githubusercontent.com/Crownss/Crownss/master/profile-summary-card-output/omni/2-most-commit-language.svg)](https://github.com/Crownss)
+[![Top Langs](https://raw.githubusercontent.com/Crownss/Crownss/master/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/Crownss)
+[![Top Commit](https://raw.githubusercontent.com/Crownss/Crownss/master/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/Crownss)
